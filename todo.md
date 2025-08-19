@@ -1,2 +1,5 @@
-callback to model after tool's result with result and old message
+Make tool and structured output go hand in hand
+- ollama done
+- openai done
+- anthropic TODO
 memory
